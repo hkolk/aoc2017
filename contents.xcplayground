@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Day 1'/>
+        <page name='Day 2'/>
+        <page name='Day 3 - 1'/>
+        <page name='Day 3 - 2'/>
+        <page name='Day 4'/>
+        <page name='Day 5'/>
+        <page name='Day 6'/>
+        <page name='Day 7'/>
+        <page name='Day 8'/>
+        <page name='Day 9'/>
+        <page name='Day 10 - 1'/>
+        <page name='Day 10 - 2'/>
+        <page name='Day 11'/>
+        <page name='Scratchpad'/>
+        <page name='Day 12'/>
+        <page name='Day 13'/>
+        <page name='Day 14'/>
+        <page name='Day 15'/>
+        <page name='Day 16'/>
+        <page name='Extensions'/>
+        <page name='Day 17'/>
+        <page name='Day 18'/>
+        <page name='Day 18 - 2'/>
+        <page name='Day 19'/>
+        <page name='Day 20'/>
+        <page name='Day 21'/>
+        <page name='Day 21 - 2'/>
+        <page name='Day 22'/>
+        <page name='Day 22 - 2'/>
+        <page name='Day 23'/>
+        <page name='Day 23 -2'/>
+        <page name='Day 24'/>
+        <page name='Day 25'/>
+        <page name='Challenge 10'/>
+    </pages>
+</playground>
